@@ -253,7 +253,7 @@ export default function Home() {
       {/* Header */}
       <header className="py-8 px-4 text-center">
         <h1 className="text-2xl font-bold text-[#3D2C2A] leading-tight">
-          小红书文案生成器
+          66专用文案生成器
         </h1>
         <p className="text-[#8C7A76] mt-2 text-sm">
           输入产品信息，一键生成6版护肤爆款笔记

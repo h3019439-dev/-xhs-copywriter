@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "小红书文案生成器 - 护肤专属",
+  title: "66专用文案生成器 - 护肤专属",
   description: "输入产品信息，一键生成6版小红书爆款笔记，支持多轮迭代修改",
 };
 
